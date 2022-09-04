@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\html\\.vscode"
+		},
+		{
+			"path": "..\\..\\html"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html"
+	}
